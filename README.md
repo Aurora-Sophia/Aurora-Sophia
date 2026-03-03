@@ -1,36 +1,33 @@
-# Olá, eu sou a Sophia 👋
+# Oi, eu sou a Sophia!
 
-🎓 Estudante de Engenharia de Software  
-💻 Focada em desenvolvimento back-end  
-🌐 Caminhando para me tornar Full Stack  
+💻 Estudando programação back-end
 
-<br>
+📓 Cursando Engenharia de Software
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aurora-Sophia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurora-Sophia&layout=compact&langs_count=6&theme=tokyonight"/>
+🌐 Futura desenvolvedora Full Stack
+
+
+<a href="https://github.com/Pranesh-2005/github-readme-stats">      
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Aurora-Sophia&theme=tokyonight" />      
+</a>      
+<a href="https://github.com/Pranesh-2005/convoychat">      
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Aurora-Sophia&layout=compact&langs_count=8&card_width=320" />      
+</a>      
+
+<div style="display: inline_block"><br>      
+  <img align="center" alt="Sophia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">      
+  <img align="center" alt="Sophia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">      
+  <img align="center" alt="Sophia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">      
 </div>
 
-<br>
-
-<div align="center">
-  <img align="center" alt="JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-<br>
-
-<div align="center">
+<div>      
    <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-   </a>
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a>      
    <a href="mailto:SEU_EMAIL">
-     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-   </a>
+     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   </a>      
    <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>      
 </div>
