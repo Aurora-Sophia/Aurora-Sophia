@@ -1,8 +1,8 @@
 # Oi, eu sou a Sophia!
 
-💻 Estudando programação back-end  
-📓 Cursando Engenharia de Software  
-🌐 Futura desenvolvedora Full Stack  
+🎓 Estudante de Engenharia de Software  
+💻 Focada em desenvolvimento back-end  
+🌐 Caminhando para me tornar desenvolvedora Full Stack 
 
 ---
 
@@ -16,8 +16,6 @@
     width="48%"
   />
 </p>
-
----
 
 <p align="center">
   <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
