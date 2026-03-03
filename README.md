@@ -9,11 +9,11 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-fast.vercel.app/api?username=Aurora-Sophia&show_icons=true&theme=tokyonight" 
-    width="48%" 
+    width="48%" margin-top="15px"
   />
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Aurora-Sophia&layout=compact&langs_count=8&theme=tokyonight" 
-    width="48%" 
+    width="48%" margin-top="15px"
   />
 </p>
 
